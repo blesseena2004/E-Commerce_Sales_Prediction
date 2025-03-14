@@ -1,4 +1,4 @@
-##E-Commerce Sales Prediction using Multiple Linear Regression##
+** E-Commerce Sales Prediction using Multiple Linear Regression**
 
 📌 Project Overview
 This project develops a Multiple Linear Regression model to predict daily sales revenue for an e-commerce store based on key business metrics like:
