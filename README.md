@@ -18,7 +18,7 @@ NumPy (Numerical Computations)
 Scikit-Learn (Machine Learning Model)
 Matplotlib & Seaborn (Data Visualization)
 
-📈### Model Evaluation Metrics ###
+📈 ### Model Evaluation Metrics ###
 
 After training, the model is evaluated using:
 Mean Absolute Error (MAE)
