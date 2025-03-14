@@ -1,6 +1,6 @@
 # E-Commerce Sales Prediction using Multiple Linear Regression #
 
-📌 Project Overview
+📌### Project Overview : ###
 This project develops a Multiple Linear Regression model to predict daily sales revenue for an e-commerce store based on key business metrics like:
 
 Website Traffic (Daily visitors)
@@ -10,7 +10,7 @@ Customer Ratings (Average user feedback score)
 
 The model helps businesses make data-driven decisions by forecasting revenue based on these factors.
 
-🚀 Technologies Used
+🚀 Technologies Used :
 
 Python (Data Processing & Model Development)
 Pandas (Data Manipulation)
